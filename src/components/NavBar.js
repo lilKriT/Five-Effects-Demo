@@ -33,6 +33,7 @@ template.innerHTML = `
         <li><a href="/index">Slide</a></li>
         <li><a href="/src/pages/rotate.html">Rotate</a></li>
         <li><a href="/src/pages/wave.html">Wave</a></li>
+        <li><a href="/src/pages/background.html">Background</a></li>
     </menu>
 </nav>
 `;
