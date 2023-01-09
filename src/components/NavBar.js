@@ -3,12 +3,15 @@ template.innerHTML = `
 <style>
     :host {
         width: 100%;
+        position: absolute;
+        top: 0;
     }
 
     nav {
         background: blue;
         width: 100%;
         display: flex;
+        justify-content: center;
     }
 
     menu {
