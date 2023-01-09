@@ -34,6 +34,7 @@ template.innerHTML = `
         <li><a href="/src/pages/rotate.html">Rotate</a></li>
         <li><a href="/src/pages/wave.html">Wave</a></li>
         <li><a href="/src/pages/background.html">Background</a></li>
+        <li><a href="/src/pages/hoverboard.html">Hoverboard</a></li>
     </menu>
 </nav>
 `;
